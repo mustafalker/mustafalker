@@ -12,7 +12,7 @@
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Back-end developer .NET.</li>
 <li><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> I live in Ankara - Turkey</li>
 <li>🚀 Exploring new technologies and developing software solutions.</li>
-<li><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> Currently learning Asp.Net Core , Angular , Java-Script.</li>
+<li><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> Currently learning Asp.Net Core , Angular , Java-Script , C# , PostGreSQL , MSSQL...</li>
 <li><g-emoji class="g-emoji" alias="racing_car" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ce.png">💭</g-emoji> I want to be a Full Stack Developer</li>
 <li><g-emoji class="g-emoji" alias="racing_car" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ce.png">💬</g-emoji> Ask me about **Asp.Net Core , Angular , Sql ...**</li>
 </ul><br>
