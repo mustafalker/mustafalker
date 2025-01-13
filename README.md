@@ -6,13 +6,12 @@
 <img align="right" height="300" alt="GIF" src="https://user-images.githubusercontent.com/22107794/139606420-eaa56bc7-9377-4f5d-9356-aed07bed3143.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </a>
 <ul dir="auto">
-<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"> 📚 </g-emoji>I'm Studying Computer Programming at Gazi University</li>
-<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Back-end developer .NET.</li>
+<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"> 📚 </g-emoji>I graduated from Gazi University, Department of Computer Programming.</li>
+<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Back-end developer .NET && Node JS.</li>
 <li><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> I live in Ankara - Turkey</li>
 <li>🚀 Exploring new technologies and developing software solutions.</li>
-<li><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> Currently learning Asp.Net Core , Angular , Java-Script , C# , PostGreSQL , MSSQL...</li>
-<li><g-emoji class="g-emoji" alias="racing_car" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ce.png">💭</g-emoji> I want to be a Full Stack Developer</li>
-<li><g-emoji class="g-emoji" alias="racing_car" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ce.png">💬</g-emoji> Ask me about **Asp.Net Core , Angular , Sql ...**</li>
+<li><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> Currently learning Node JS, Asp.Net Core , Angular, React , Java-Script , C# , PostGreSQL , MSSQL...</li>
+<li><g-emoji class="g-emoji" alias="racing_car" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ce.png">💬</g-emoji> Ask me about **Node JS, Asp.Net Core , Angular , Sql ...**</li>
 </ul><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
